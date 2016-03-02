@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "神经网络识别车牌字符", "神经网络识别车牌字符\神经网络识别车牌字符.vcxproj", "{8CBD223B-F932-4FE9-AC33-8458CC855F34}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BPNetwork", "BPNetwork\BPNetwork.vcxproj", "{21AFD0C8-6E61-494C-9D36-9B86A969BED1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ANN", "ANN\ANN.vcxproj", "{E4F0EE75-3BD8-48C5-A335-E1F73B272BEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "车牌识别", "车牌识别\车牌识别.vcxproj", "{BC68FADA-26A3-4C20-ADDC-F452A33E8EB0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SVM", "SVM\SVM.vcxproj", "{6998F7DF-9E42-47DD-933A-90866D6C1864}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "人脸检测初探", "人脸检测初探\人脸检测初探.vcxproj", "{5C4BA09A-C89A-4F6F-84B4-B8DFE46F0E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBD223B-F932-4FE9-AC33-8458CC855F34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8CBD223B-F932-4FE9-AC33-8458CC855F34}.Debug|Win32.Build.0 = Debug|Win32
+		{8CBD223B-F932-4FE9-AC33-8458CC855F34}.Release|Win32.ActiveCfg = Release|Win32
+		{8CBD223B-F932-4FE9-AC33-8458CC855F34}.Release|Win32.Build.0 = Release|Win32
+		{21AFD0C8-6E61-494C-9D36-9B86A969BED1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21AFD0C8-6E61-494C-9D36-9B86A969BED1}.Debug|Win32.Build.0 = Debug|Win32
+		{21AFD0C8-6E61-494C-9D36-9B86A969BED1}.Release|Win32.ActiveCfg = Release|Win32
+		{21AFD0C8-6E61-494C-9D36-9B86A969BED1}.Release|Win32.Build.0 = Release|Win32
+		{E4F0EE75-3BD8-48C5-A335-E1F73B272BEA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E4F0EE75-3BD8-48C5-A335-E1F73B272BEA}.Debug|Win32.Build.0 = Debug|Win32
+		{E4F0EE75-3BD8-48C5-A335-E1F73B272BEA}.Release|Win32.ActiveCfg = Release|Win32
+		{E4F0EE75-3BD8-48C5-A335-E1F73B272BEA}.Release|Win32.Build.0 = Release|Win32
+		{BC68FADA-26A3-4C20-ADDC-F452A33E8EB0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC68FADA-26A3-4C20-ADDC-F452A33E8EB0}.Debug|Win32.Build.0 = Debug|Win32
+		{BC68FADA-26A3-4C20-ADDC-F452A33E8EB0}.Release|Win32.ActiveCfg = Release|Win32
+		{BC68FADA-26A3-4C20-ADDC-F452A33E8EB0}.Release|Win32.Build.0 = Release|Win32
+		{6998F7DF-9E42-47DD-933A-90866D6C1864}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6998F7DF-9E42-47DD-933A-90866D6C1864}.Debug|Win32.Build.0 = Debug|Win32
+		{6998F7DF-9E42-47DD-933A-90866D6C1864}.Release|Win32.ActiveCfg = Release|Win32
+		{6998F7DF-9E42-47DD-933A-90866D6C1864}.Release|Win32.Build.0 = Release|Win32
+		{5C4BA09A-C89A-4F6F-84B4-B8DFE46F0E9D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5C4BA09A-C89A-4F6F-84B4-B8DFE46F0E9D}.Debug|Win32.Build.0 = Debug|Win32
+		{5C4BA09A-C89A-4F6F-84B4-B8DFE46F0E9D}.Release|Win32.ActiveCfg = Release|Win32
+		{5C4BA09A-C89A-4F6F-84B4-B8DFE46F0E9D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
